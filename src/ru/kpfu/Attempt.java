@@ -33,4 +33,9 @@ public class Attempt {
     public int getScore() {
         return score;
     }
+
+    @Override
+    public String toString() {
+        return "Attempt #" + attemptNumber + " score=" + score;
+    }
 }

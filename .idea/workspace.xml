@@ -4,107 +4,57 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1c405e3-34a4-4e3b-85d3-b350acc2f140" name="Changes" comment="" />
+    <list default="true" id="949e0d02-2c80-4938-b5e7-cf1013dd6729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ru/kpfu/resources/attempts-2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/students/ru/kpfu/Attempt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/students/ru/kpfu/Attempt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/students/ru/kpfu/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/students/ru/kpfu/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/students/test/ru/kpfu/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/students/test/ru/kpfu/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/kpfu/Attempt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/kpfu/Attempt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/kpfu/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/kpfu/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/students.iml" beforeDir="false" afterPath="$PROJECT_DIR$/students.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2EtC7G6bP20I8B9HuRHcJbPtLcg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled104" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-    </panes>
-  </component>
+  <component name="ProjectId" id="2FA51Qj308MtRYUewGXViS7BkMM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Diana.Monzhosova\Learning\java\students\lib" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Diana.Monzhosova\Learning\java\students\src" />
-      <recent name="C:\Users\Diana.Monzhosova\Learning\java\students" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.MainTest">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.kpfu.Main" />
+      <module name="students" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.kpfu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="students" />
       <extension name="coverage">
@@ -120,93 +70,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest.testGetAttemptScoreBetweenFiveAndTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="students" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.ru.kpfu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.ru.kpfu" />
-      <option name="MAIN_CLASS_NAME" value="test.ru.kpfu.MainTest" />
-      <option name="METHOD_NAME" value="testGetAttemptScoreBetweenFiveAndTen" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.testGetAttemptScoreWithNumberAttemptMoreThanTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="students" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.ru.kpfu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.ru.kpfu" />
-      <option name="MAIN_CLASS_NAME" value="test.ru.kpfu.MainTest" />
-      <option name="METHOD_NAME" value="testGetAttemptScoreWithNumberAttemptMoreThanTen" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.testGetAttemptWithNumberAttemptEqualZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="students" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.ru.kpfu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.ru.kpfu" />
-      <option name="MAIN_CLASS_NAME" value="test.ru.kpfu.MainTest" />
-      <option name="METHOD_NAME" value="testGetAttemptWithNumberAttemptEqualZero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.testGetAttemptWithNumberAttemptLessThatFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="students" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.ru.kpfu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.ru.kpfu" />
-      <option name="MAIN_CLASS_NAME" value="test.ru.kpfu.MainTest" />
-      <option name="METHOD_NAME" value="testGetAttemptWithNumberAttemptLessThatFive" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MainTest" />
-        <item itemvalue="JUnit.MainTest.testGetAttemptScoreBetweenFiveAndTen" />
-        <item itemvalue="JUnit.MainTest.testGetAttemptWithNumberAttemptEqualZero" />
-        <item itemvalue="JUnit.MainTest.testGetAttemptWithNumberAttemptLessThatFive" />
-        <item itemvalue="JUnit.MainTest.testGetAttemptScoreWithNumberAttemptMoreThanTen" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d1c405e3-34a4-4e3b-85d3-b350acc2f140" name="Changes" comment="" />
-      <created>1663405327097</created>
+      <changelist id="949e0d02-2c80-4938-b5e7-cf1013dd6729" name="Changes" comment="" />
+      <created>1663921832794</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663405327097</updated>
-      <workItem from="1663405328697" duration="8554000" />
-      <workItem from="1663414441403" duration="10000" />
-      <workItem from="1663532342295" duration="50000" />
-      <workItem from="1663681224456" duration="928000" />
-      <workItem from="1663682180308" duration="4372000" />
+      <updated>1663921832794</updated>
+      <workItem from="1663921834419" duration="1334000" />
+      <workItem from="1663961266774" duration="3723000" />
     </task>
     <servers />
   </component>
@@ -223,5 +103,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/kpfu/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
